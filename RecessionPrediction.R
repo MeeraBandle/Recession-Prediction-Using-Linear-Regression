@@ -1,7 +1,5 @@
 ## Predicting Recession using Data obtained from Kaggle
 
-# Group project: Deliverable 4 | May 2, 2023
-
 #### Overview
 
 # Loading packages and libaries that will be required for prediction
